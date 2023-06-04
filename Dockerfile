@@ -1,1 +1,1 @@
-FROM ewdurbin/fides:dev
+FROM ewdurbin/fides:2.14.1b1
