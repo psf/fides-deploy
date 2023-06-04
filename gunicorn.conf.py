@@ -9,10 +9,10 @@ timeout = 60
 keepalive = 2
 
 errorlog = "-"
-loglevel = "info"
+loglevel = "debug"
 accesslog = "-"
 
-statsd_host = "localhost:8125"
+#statsd_host = "localhost:8125"
 
 
 def when_ready(server):
